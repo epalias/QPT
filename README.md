@@ -1,6 +1,6 @@
 # Project Title
 
-Code for the paper on Quantum Process Tomography. It allows the user to specify a regularisation parameter to constrain the capacity of the hypothesis class of channels to learn from.
+Code for the paper on Quantum Process Tomography. It allows the user to specify a regularisation parameter to constrain the hypothesis class of channels to learn from.
 
 ## Prerequisites & Dependencies
 
